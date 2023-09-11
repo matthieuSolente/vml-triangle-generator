@@ -1,4 +1,4 @@
-# vml-triangle-generator
+# VML Triangle Generator
 A **generator** to create **isoceles** or scalene triangle** in **email**
 
 
